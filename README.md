@@ -1,0 +1,2 @@
+# Geospatial-and-Machine-Hydrogeological-Modelling-
+This work represents one of the most comprehensive multi-index environmental impact assessments of dumpsite in Nigeria including 10 environmental contamination indices 3-pathway health risk modeling for both adults and children - 6 irrigation suitability indices - ML-driven water suitability classification - GIS-based spatial risk virtualization 
